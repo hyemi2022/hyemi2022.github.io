@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About me(CV)"
-    url: "/about/" 
+    url: /about/
   - title: "Research & Project"
-    url: "/portfolio/"
+    url: /portfolio/
   - title: "Machine Learning"
-    url: "/categories/"
+    url: /categories/
   - title: "Paper Study"
-    url: "/publications/"
+    url: /publications/
   - title: "Environment(ENG)"
   #   url: /sitemap/
     - title: "Environment(ENG)"
