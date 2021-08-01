@@ -3,7 +3,7 @@ main:
   - title: "About me(CV)"
     url: "/about/" 
   - title: "Research & Project"
-    url: 	/portfolio/
+    url: /portfolio/
   - title: "Machine Learning"
     url: /page-a/
   - title: "Paper Study"
