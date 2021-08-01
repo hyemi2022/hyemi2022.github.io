@@ -9,15 +9,6 @@ main:
     url: /categories/
   - title: "Paper Study"
     url: /publications/
-=======
-    url: "/about/" 
-  - title: "Research & Project"
-    url: 	/portfolio/
-  - title: "Machine Learning"
-    url: /page-a/
-  - title: "Paper Study"
-    url: /page-b/
->>>>>>> 460a577 (menu)
   - title: "Environment(ENG)"
   #   url: /sitemap/
     - title: "Environment(ENG)"
