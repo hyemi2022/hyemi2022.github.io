@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Hyemi KIM"
 description              : "An amazing website."
 url                      : "https://hyemi2022.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : " " # the subpath of your site, e.g. "/blog"
 repository               : "hyemi2022/hyemi2022.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Hyemi KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**지구를 구하는 Enreceo!**<br>Engineer Researcher CEO<br>탄소배출 제로를 꿈꾸는<br>엔지니어이자 연구자이자 기업가<br>Widely Deeply Study Everything"
+  bio              : "**지구를 Enreceo!**<br>Engineer Researcher CEO<br>탄소배출 제로를 꿈꾸는<br>엔지니어이자 연구자이자 기업가<br>Widely Deeply Study Everything"
   location         : "Somewhere"
   email            :
   links:
@@ -281,7 +281,7 @@ defaults:
 
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
