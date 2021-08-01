@@ -8,7 +8,7 @@ main:
     url: /page-a/
   - title: "Paper Study"
     url: /page-b/
-  - title: "Environment(ENG)"
+  # - title: "Environment(ENG)"
   #   url: /sitemap/
-    - title: "Environment(ENG)"
+  # - title: "Environment(ENG)"
   #   url: /sitemap/
