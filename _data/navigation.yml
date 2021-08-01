@@ -5,9 +5,9 @@ main:
   - title: "Research & Project"
     url: /portfolio/
   - title: "Machine Learning"
-    url: /categories/
-  - title: "Paper Study"
     url: /page-a/
+  - title: "Paper Study"
+    url: /page-b/
   - title: "Environment(ENG)"
   #   url: /sitemap/
     - title: "Environment(ENG)"
