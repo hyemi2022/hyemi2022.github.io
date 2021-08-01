@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Introduce(CV)"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Technical(KOR)"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Technical(ENG)"
-  #   url: /year-archive/
-  - title: "Environment(KOR)"
-  #   url: /collection-archive/
+  - title: "About me(CV)"
+    url: "/about/" 
+  - title: "Research & Project"
+    url: 	/portfolio/
+  - title: "Machine Learning"
+    url: /page-a/
+  - title: "Paper Study"
+    url: /page-b/
   - title: "Environment(ENG)"
   #   url: /sitemap/
     - title: "Environment(ENG)"
